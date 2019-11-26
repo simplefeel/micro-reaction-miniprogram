@@ -1,0 +1,5 @@
+<view class="container">
+  <text class="count-number">{{count}}</text>
+  <button class="btn" type="primary" bindtap="onTap">Add</button>
+  <button class="btn-go" type="warn" bindtap="onJump">Go</button>
+</view>

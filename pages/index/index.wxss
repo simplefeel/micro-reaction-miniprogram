@@ -1,0 +1,13 @@
+.container{
+  text-align: center;
+  color:orchid;
+}
+.count-number{
+  font-size: 100rpx;
+}
+.btn{
+  margin: 30rpx 0;
+}
+.btn-go{
+  margin: 30rpx 0;
+}
