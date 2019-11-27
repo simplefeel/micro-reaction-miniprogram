@@ -57,7 +57,7 @@ Page(connect({
 }))
 ```
 
-### Demo
+## Demo
 
-<a href="https://si.geilicdn.com/img-42df0000016eaab674490a21924a-unadjust_375_716.gif" target="_blank">Demo</a>
+<a href="https://si.geilicdn.com/img-42df0000016eaab674490a21924a-unadjust_375_716.gif" target="_blank">see gif demo</a>
 
