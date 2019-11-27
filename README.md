@@ -59,5 +59,5 @@ Page(connect({
 
 ### Demo
 
-![](https://si.geilicdn.com/img-7a950000016eaab33ee30a211587-unadjust_368_616.gif)
+<a href="https://si.geilicdn.com/img-42df0000016eaab674490a21924a-unadjust_375_716.gif" target="_blank">Demo</a>
 
