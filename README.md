@@ -59,6 +59,5 @@ Page(connect({
 
 ### Demo
 
-<p style="background:black;text-align:center;padding:20px"><img src="https://si.geilicdn.com/img-0ff60000016ea79da01b0a211587-unadjust_319_553.gif"/></p>
-
+![](https://si.geilicdn.com/img-09d60000016eaa9b40b80a21a21b-unadjust_720_540.gif)
 
